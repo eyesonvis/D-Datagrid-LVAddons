@@ -1,0 +1,5 @@
+{
+    "AddonName": "dsm-qc-datagrid",
+    "ApiVersion": "v1",
+    "MinimumSupportedLVVersion": "23.0"
+}
